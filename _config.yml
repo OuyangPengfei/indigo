@@ -33,6 +33,10 @@ disqus:
   shortname: mydisqus # enter this from your disqus account
   categories: [blog, project] # only show disqus for posts that have these categories
 
+# this is for intensedebate
+intensedebate_comments: true
+
+
 # if you don't have any of social below, comment the line
 facebook: ouyangpengfei
 twitter: ouyangpengfei

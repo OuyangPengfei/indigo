@@ -8,7 +8,7 @@ layout: page
 
 <p>I construct buildings and my family's beautiful life.</p>
 
-// <h2>Skills</h2>
+* <h2>Skills</h2>*
 
 # <ul class="skill-list">
 # 	<li>HTML - Jade - Haml - Erb</li>

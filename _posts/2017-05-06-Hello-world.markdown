@@ -9,7 +9,7 @@ tag:
 - birthday
 star: true
 category: blog
-author: Ouyang Pengfei
+author: ouyangpengfei
 description: the very first post of my blog.
 ---
 

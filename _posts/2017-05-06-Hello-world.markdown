@@ -4,7 +4,6 @@ layout: post
 date: 2017-05-06 19:20
 image: /assets/images/markdown.jpg
 headerImage: true
-intensedebate_comments: true
 tag:
 - hello world
 - birthday

@@ -47,14 +47,3 @@ layout: page
 {% if site.disqus.categories contains page.category %}
     {% include disqus.html %}
 {% endif %}
-
-    {% if site.intensedebate_comments %}
-      {% include intensedebate-comments.html %}
-<script>
-var idcomments_acct = '1b609032811ae9c23c397feeed706d5a';
-var idcomments_post_id;
-var idcomments_post_url;
-</script>
-<span id="IDCommentsPostTitle" style="display:none"></span>
-<script type='text/javascript' src='https://www.intensedebate.com/js/genericCommentWrapperV2.js'></script>
-    {% endif %}

@@ -34,23 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# google: mygoogle
+facebook: ouyangpengfei
+twitter: ouyangpengfei
+google: ouyangpengfei
 instagram: ouyangpengfei
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: ouyangpengfei
 # youtube: myyoutube
 # spotify: myspotify
 github: mygithub
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
-# quora: userquora
+quora: ouyangpengfei
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: ouyangpengfei@hotmail.com
 
 authors:
     ouyangpengfei:

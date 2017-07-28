@@ -16,7 +16,7 @@ resume: false
 resume-external: false
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: http://ouyang.im
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -37,7 +37,7 @@ disqus:
 facebook: myfacebook
 twitter: mytwitter
 # google: mygoogle
-# instagram: myinstagram
+instagram: ouyangpengfei
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
@@ -59,12 +59,12 @@ authors:
         external-image: false
         picture: assets/images/profile.jpg
         twitter: ouyangpengfei
-    jamesfoster:
-        name: James Foster
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+#    jamesfoster:
+#        name: James Foster
+ #       bio: A Man who develops software with coffee
+  #      external-image: false
+   #     picture: assets/images/james.jpg
+    #    twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -76,7 +76,7 @@ width: normal
 # paginate_path: "blog/:num/"
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+# projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true

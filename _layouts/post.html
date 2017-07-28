@@ -48,6 +48,6 @@ layout: page
     {% include disqus.html %}
 {% endif %}
 
-{% if page.comments != false %}
- {% include intensedebate.html %}
-{% endif %}
+    {% if site.intensedebate_comments %}
+      {% include intensedebate-comments.html %}
+    {% endif %}

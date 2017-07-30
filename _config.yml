@@ -1,6 +1,6 @@
 # main text of home
 name: Ouyang Pengfei
-bio: Engineer丨build things for livng, build life for family
+bio: Engineer丨I build things for livng, build life for family
  
 # twitter summary info
 description: The abense of desire leaves one free to purse other things
@@ -55,7 +55,7 @@ email: ouyangpengfei@hotmail.com
 authors:
     ouyangpengfei:
         name: Ouyang Pengfei
-        bio: Engineer丨build things for livng, build life for family
+        bio: Engineer丨I build things for livng, build life for family
         external-image: false
         picture: assets/images/profile.jpg
         twitter: ouyangpengfei

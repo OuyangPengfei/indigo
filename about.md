@@ -7,4 +7,4 @@ layout: page
   
   
   
-<center>####Sometimes bad guys makes the best good guys.</center>
+<center>**Sometimes bad guys makes the best good guys.**</center>

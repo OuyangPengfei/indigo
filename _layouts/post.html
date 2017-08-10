@@ -4,9 +4,12 @@ layout: page
 
 {% if page.image and page.headerImage %}
     <img class="title-image" src="{{ page.image }}" alt="{{ page.title }} ">
+
+<link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+
 {% endif %}
 
- <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+ 
 
 <h1 class="title">{{ page.title }}</h1>
 

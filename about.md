@@ -2,7 +2,7 @@
 title: About
 layout: page
 ---
-![Profile Image]({{http://ouyang.im}}/{{ site.picture }})  
+![Profile Image]({{ site.url }}/{{ site.picture }})  
   
   
   

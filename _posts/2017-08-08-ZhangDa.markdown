@@ -13,7 +13,6 @@ author: ouyangpengfei
 description: 
 ---
 
-<center>
 
 一年前的那个夏，  
 学生时代最后一个暑假，  
@@ -51,7 +50,3 @@ description:
 
 
 
-
-
-
-</center>
